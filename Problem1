@@ -1,0 +1,18 @@
+#code
+
+# for n in range(1):
+# arr = input().split(" ")
+arr = [4, 4, 2, 2, 2, 2, 3, 3, 1, 1, 6, 7, 5]
+dic_cnt_lst = {}
+
+s = set(arr)
+new_arr_sorted = sorted(list(s))
+print(new_arr_sorted)
+for e in new_arr_sorted:
+    cnt = arr.count(e)
+    dic_cnt_lst[e] = cnt
+        
+for e in s:
+    print
+
+print(dic_cnt_lst) 
