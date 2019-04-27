@@ -1,0 +1,2 @@
+ClientID = 537719589942-ejvnp03eu574bgs12et7ffjvaudoie46.apps.googleusercontent.com
+Client Secret: CeLsLcZK89bm82M_3uQfW2gq
